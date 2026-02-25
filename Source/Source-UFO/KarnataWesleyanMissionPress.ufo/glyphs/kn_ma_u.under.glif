@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_ma_u.under" format="2">
+  <advance width="692"/>
+  <outline>
+    <contour>
+      <point x="629.665" y="659.608" type="curve" smooth="yes"/>
+      <point x="766.575" y="395.167"/>
+      <point x="682.179" y="-120.589"/>
+      <point x="297.706" y="-84.9545" type="curve" smooth="yes"/>
+      <point x="95.1553" y="-66.1998"/>
+      <point x="40.7666" y="111.97"/>
+      <point x="1.38167" y="243.253" type="curve" smooth="yes"/>
+      <point x="-6.12023" y="269.51"/>
+      <point x="7.00809" y="316.397"/>
+      <point x="72.6497" y="207.619" type="curve" smooth="yes"/>
+      <point x="113.91" y="140.102"/>
+      <point x="162.672" y="23.8229"/>
+      <point x="297.706" y="6.94367" type="curve" smooth="yes"/>
+      <point x="659.673" y="-36.1922"/>
+      <point x="665.299" y="410.171"/>
+      <point x="592.156" y="642.729" type="curve" smooth="yes"/>
+      <point x="573.401" y="693.367"/>
+      <point x="609.035" y="698.993"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

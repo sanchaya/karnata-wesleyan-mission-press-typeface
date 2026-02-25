@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_ss_i" format="2">
+  <advance width="1078"/>
+  <outline>
+    <component base="kn_ss.base2" xOffset="-56"/>
+    <component base="kn_ma_i2" xOffset="184" yOffset="70"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kn_ss_i</string>
+  </dict>
+  </lib>
+</glyph>

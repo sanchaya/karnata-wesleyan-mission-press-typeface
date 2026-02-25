@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_gh_v" format="2">
+  <advance width="1423"/>
+  <outline>
+    <component base="kn_virama" xOffset="289" yOffset="134"/>
+    <component base="kn_gh.base2"/>
+  </outline>
+  <guideline angle="0" x="0" y="844"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kn_gh_v</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

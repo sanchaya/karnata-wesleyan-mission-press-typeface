@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_p_v" format="2">
+  <advance width="985"/>
+  <outline>
+    <component base="kn_virama" xOffset="248" yOffset="23"/>
+    <component base="kn_p.base2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kn_p_v</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_d" format="2">
+  <advance width="779"/>
+  <unicode hex="0CA6"/>
+  <outline>
+    <component base="kn_d.base"/>
+    <component base="talekattu" xOffset="545" yOffset="-17"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.959,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

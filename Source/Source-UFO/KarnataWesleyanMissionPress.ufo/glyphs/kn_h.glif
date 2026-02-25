@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_h" format="2">
+  <advance width="878"/>
+  <unicode hex="0CB9"/>
+  <outline>
+    <component base="kn_h.base"/>
+    <component base="talekattu" xOffset="609" yOffset="-22"/>
+  </outline>
+  <guideline angle="0" x="0" y="840"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.959,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

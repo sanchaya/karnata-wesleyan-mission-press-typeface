@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_y_v" format="2">
+  <advance width="1658"/>
+  <outline>
+    <component base="kn_virama" xOffset="554" yOffset="163"/>
+    <contour>
+      <point x="1024.54" y="127.768" type="curve" smooth="yes"/>
+      <point x="960.223" y="-4.5368"/>
+      <point x="842.618" y="-24.7501"/>
+      <point x="743.39" y="-15.5622" type="curve" smooth="yes"/>
+      <point x="589.034" y="-0.861664"/>
+      <point x="539.419" y="201.271"/>
+      <point x="530.231" y="149.819" type="curve" smooth="yes"/>
+      <point x="511.856" y="39.5649"/>
+      <point x="377.713" y="-8.21194"/>
+      <point x="272.972" y="-2.69923" type="curve" smooth="yes"/>
+      <point x="146.179" y="2.81348"/>
+      <point x="48.7881" y="100.205"/>
+      <point x="41.4378" y="223.322" type="curve" smooth="yes"/>
+      <point x="32.2499" y="362.977"/>
+      <point x="100.24" y="513.658"/>
+      <point x="280.322" y="528.359" type="curve" smooth="yes"/>
+      <point x="469.592" y="544.897"/>
+      <point x="539.419" y="388.703"/>
+      <point x="574.333" y="236.185" type="curve" smooth="yes"/>
+      <point x="631.298" y="-4.5368"/>
+      <point x="971.248" y="0.975906"/>
+      <point x="971.248" y="278.449" type="curve" smooth="yes"/>
+      <point x="971.248" y="397.891"/>
+      <point x="816.892" y="524.683"/>
+      <point x="702.963" y="535.709" type="curve"/>
+      <point x="741.552" y="548.572"/>
+      <point x="759.928" y="557.76"/>
+      <point x="804.029" y="557.76" type="curve"/>
+      <point x="932.659" y="517.333"/>
+      <point x="1088.85" y="340.926"/>
+      <point x="1046.59" y="190.246" type="curve"/>
+      <point x="1020.86" y="113.068"/>
+      <point x="1353.46" y="19.3516"/>
+      <point x="1357.14" y="276.611" type="curve" smooth="yes"/>
+      <point x="1358.98" y="364.815"/>
+      <point x="1331.41" y="397.891"/>
+      <point x="1221.16" y="441.993" type="curve" smooth="yes"/>
+      <point x="1173.38" y="460.368"/>
+      <point x="1142.14" y="554.085"/>
+      <point x="1230.35" y="544.897" type="curve" smooth="yes"/>
+      <point x="1285.47" y="539.384"/>
+      <point x="1379.19" y="453.018"/>
+      <point x="1408.59" y="383.191" type="curve" smooth="yes"/>
+      <point x="1471.07" y="236.185"/>
+      <point x="1401.24" y="23.0267"/>
+      <point x="1197.27" y="23.0267" type="curve" smooth="yes"/>
+      <point x="1094.37" y="23.0267"/>
+      <point x="1035.56" y="151.657"/>
+    </contour>
+    <contour>
+      <point x="100.24" y="239.86" type="curve" smooth="yes"/>
+      <point x="111.265" y="129.606"/>
+      <point x="192.119" y="61.6157"/>
+      <point x="309.723" y="67.1284" type="curve" smooth="yes"/>
+      <point x="401.602" y="72.6411"/>
+      <point x="478.779" y="140.631"/>
+      <point x="493.48" y="228.835" type="curve" smooth="yes"/>
+      <point x="511.856" y="340.926"/>
+      <point x="445.703" y="456.693"/>
+      <point x="313.398" y="462.206" type="curve" smooth="yes"/>
+      <point x="182.931" y="467.719"/>
+      <point x="87.377" y="353.789"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kn_y_v</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

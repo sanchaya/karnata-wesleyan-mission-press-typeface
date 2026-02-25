@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_y_e" format="2">
+  <advance width="1504"/>
+  <outline>
+    <component base="kn_y.base"/>
+    <component base="kn_ma_e" xOffset="534" yOffset="34"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kn_y_e</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_jh_v" format="2">
+  <advance width="1599"/>
+  <outline>
+    <component base="kn_virama" xOffset="217" yOffset="186"/>
+    <contour>
+      <point x="636.783" y="231.621" type="curve"/>
+      <point x="671.418" y="149.98"/>
+      <point x="723.372" y="70.8123"/>
+      <point x="829.753" y="70.8123" type="curve" smooth="yes"/>
+      <point x="1104.36" y="70.8123"/>
+      <point x="1059.83" y="387.481"/>
+      <point x="943.556" y="538.394" type="curve" smooth="yes"/>
+      <point x="908.92" y="582.926"/>
+      <point x="950.978" y="590.348"/>
+      <point x="980.665" y="570.556" type="curve" smooth="yes"/>
+      <point x="1101.89" y="491.389"/>
+      <point x="1126.63" y="187.089"/>
+      <point x="1126.63" y="48.5465" type="curve" smooth="yes"/>
+      <point x="1126.63" y="-15.7769"/>
+      <point x="1116.73" y="-127.106"/>
+      <point x="1077.15" y="-70.2044" type="curve" smooth="yes"/>
+      <point x="1059.83" y="-45.4647"/>
+      <point x="1059.83" y="51.0205"/>
+      <point x="1059.83" y="83.1822" type="curve" smooth="yes"/>
+      <point x="1059.83" y="107.922"/>
+      <point x="993.035" y="-5.88102"/>
+      <point x="852.019" y="-5.88102" type="curve" smooth="yes"/>
+      <point x="698.632" y="-5.88102"/>
+      <point x="646.678" y="88.1301"/>
+      <point x="604.621" y="149.98" type="curve" smooth="yes"/>
+      <point x="599.673" y="157.402"/>
+      <point x="619.465" y="194.511"/>
+    </contour>
+    <contour>
+      <point x="1242.91" y="538.394" type="curve" smooth="yes"/>
+      <point x="1220.64" y="548.29"/>
+      <point x="1242.91" y="605.192"/>
+      <point x="1294.86" y="587.874" type="curve" smooth="yes"/>
+      <point x="1398.77" y="555.712"/>
+      <point x="1519.99" y="328.106"/>
+      <point x="1519.99" y="206.881" type="curve" smooth="yes"/>
+      <point x="1519.99" y="73.2863"/>
+      <point x="1411.14" y="4.01489"/>
+      <point x="1289.91" y="4.01489" type="curve" smooth="yes"/>
+      <point x="1213.22" y="4.01489"/>
+      <point x="1094.47" y="70.8123"/>
+      <point x="1074.68" y="152.454" type="curve" smooth="yes"/>
+      <point x="1067.25" y="184.615"/>
+      <point x="1094.47" y="236.569"/>
+      <point x="1114.26" y="184.615" type="curve" smooth="yes"/>
+      <point x="1131.58" y="140.084"/>
+      <point x="1205.8" y="75.7603"/>
+      <point x="1289.91" y="75.7603" type="curve" smooth="yes"/>
+      <point x="1393.82" y="75.7603"/>
+      <point x="1448.25" y="137.61"/>
+      <point x="1448.25" y="239.043" type="curve" smooth="yes"/>
+      <point x="1448.25" y="387.481"/>
+      <point x="1294.86" y="511.18"/>
+    </contour>
+    <contour>
+      <point x="367.119" y="-0.933061" type="curve" smooth="yes"/>
+      <point x="226.102" y="-0.933061"/>
+      <point x="94.9814" y="122.766"/>
+      <point x="94.9814" y="263.783" type="curve" smooth="yes"/>
+      <point x="94.9814" y="449.331"/>
+      <point x="171.675" y="580.452"/>
+      <point x="367.119" y="573.03" type="curve" smooth="yes"/>
+      <point x="557.615" y="565.608"/>
+      <point x="646.678" y="461.701"/>
+      <point x="646.678" y="263.783" type="curve" smooth="yes"/>
+      <point x="646.678" y="107.922"/>
+      <point x="537.823" y="-0.933061"/>
+    </contour>
+    <contour>
+      <point x="367.119" y="105.448" type="curve" smooth="yes"/>
+      <point x="488.344" y="105.448"/>
+      <point x="607.095" y="219.251"/>
+      <point x="589.777" y="352.846" type="curve" smooth="yes"/>
+      <point x="567.511" y="506.232"/>
+      <point x="448.76" y="538.394"/>
+      <point x="374.541" y="538.394" type="curve" smooth="yes"/>
+      <point x="322.587" y="538.394"/>
+      <point x="179.097" y="526.024"/>
+      <point x="151.883" y="352.846" type="curve" smooth="yes"/>
+      <point x="134.565" y="214.303"/>
+      <point x="235.998" y="105.448"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kn_jh_v</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

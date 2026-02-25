@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_nn" format="2">
+  <advance width="1159"/>
+  <unicode hex="0CA3"/>
+  <outline>
+    <component base="kn_nn.base"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.959,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

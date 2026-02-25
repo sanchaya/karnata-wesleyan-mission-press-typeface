@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_d_v" format="2">
+  <advance width="832"/>
+  <outline>
+    <component base="kn_virama" xOffset="202" yOffset="155"/>
+    <contour>
+      <point x="376" y="64" type="curve" smooth="yes"/>
+      <point x="352" y="91"/>
+      <point x="352" y="88"/>
+      <point x="334" y="68" type="curve" smooth="yes"/>
+      <point x="316" y="49"/>
+      <point x="280" y="-13"/>
+      <point x="173" y="-3" type="curve" smooth="yes"/>
+      <point x="-33" y="15"/>
+      <point x="8" y="363"/>
+      <point x="245" y="514" type="curve" smooth="yes"/>
+      <point x="321" y="562"/>
+      <point x="396" y="558"/>
+      <point x="490" y="507" type="curve" smooth="yes"/>
+      <point x="652" y="420"/>
+      <point x="760" y="27"/>
+      <point x="519" y="6" type="curve" smooth="yes"/>
+      <point x="451" y="0"/>
+      <point x="400" y="37"/>
+    </contour>
+    <contour>
+      <point x="309" y="101" type="curve" smooth="yes"/>
+      <point x="333" y="125"/>
+      <point x="341" y="174"/>
+      <point x="371" y="139" type="curve" smooth="yes"/>
+      <point x="413" y="91"/>
+      <point x="545" y="-23"/>
+      <point x="593" y="151" type="curve" smooth="yes"/>
+      <point x="621" y="253"/>
+      <point x="574" y="420"/>
+      <point x="456" y="478" type="curve" smooth="yes"/>
+      <point x="399" y="506"/>
+      <point x="322" y="511"/>
+      <point x="269" y="470" type="curve" smooth="yes"/>
+      <point x="-18" y="248"/>
+      <point x="151" y="-57"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kn_d_v</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

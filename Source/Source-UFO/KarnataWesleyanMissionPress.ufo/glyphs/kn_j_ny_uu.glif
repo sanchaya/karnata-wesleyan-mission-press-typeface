@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_j_ny_uu" format="2">
+  <advance width="1553"/>
+  <outline>
+    <component base="kn_j_uu"/>
+    <component base="kn_ny_ottu3" xOffset="110" yOffset="-60"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kn_j_ny_uu</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kn_g.base" format="2">
+  <advance width="785"/>
+  <outline>
+    <contour>
+      <point x="93" y="62" type="curve" smooth="yes"/>
+      <point x="93" y="77"/>
+      <point x="310" y="436"/>
+      <point x="376" y="506" type="curve"/>
+      <point x="390" y="520"/>
+      <point x="420" y="516"/>
+      <point x="440" y="488" type="curve" smooth="yes"/>
+      <point x="520" y="373"/>
+      <point x="603" y="216"/>
+      <point x="701" y="44" type="curve" smooth="yes"/>
+      <point x="719" y="12"/>
+      <point x="665" y="-33"/>
+      <point x="627" y="50" type="curve" smooth="yes"/>
+      <point x="580" y="152"/>
+      <point x="509" y="297"/>
+      <point x="451" y="385" type="curve" smooth="yes"/>
+      <point x="427" y="422"/>
+      <point x="412" y="425"/>
+      <point x="398" y="403" type="curve" smooth="yes"/>
+      <point x="328" y="297"/>
+      <point x="256" y="120"/>
+      <point x="203" y="31" type="curve" smooth="yes"/>
+      <point x="172" y="-21"/>
+      <point x="93" y="-5"/>
+    </contour>
+    <contour>
+      <point x="75" y="530" type="line"/>
+      <point x="4" y="530"/>
+      <point x="-9" y="629"/>
+      <point x="95" y="630" type="curve"/>
+      <point x="560" y="630" type="line"/>
+      <point x="560" y="589"/>
+      <point x="560" y="565"/>
+      <point x="560" y="530" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.665,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
