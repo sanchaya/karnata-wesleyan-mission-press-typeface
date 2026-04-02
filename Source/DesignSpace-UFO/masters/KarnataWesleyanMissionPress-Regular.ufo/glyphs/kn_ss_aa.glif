@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kn_ss_aa" format="2">
-  <advance width="1465"/>
-  <outline>
-    <component base="kn_ss.base"/>
-    <component base="kn_ma_aa.extra" xOffset="536"/>
-  </outline>
-</glyph>
