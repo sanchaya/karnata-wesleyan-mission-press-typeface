@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kn_dd_au" format="2">
-  <advance width="1302"/>
-  <outline>
-    <component base="kn_dd.base"/>
-    <component base="kn_ma_au" xOffset="138" yOffset="-5"/>
-  </outline>
-</glyph>
